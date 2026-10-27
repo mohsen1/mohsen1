@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="36" viewBox="0 0 164 36" role="img" aria-label="Proofline">
+  <svg x="0" y="0" width="36" height="36" viewBox="0 0 460 460">
+    <rect x="31" y="23" width="181" height="181" rx="11" fill="#0c3b26"/>
+    <rect x="243" y="23" width="181" height="181" rx="11" fill="#b8d545"/>
+    <rect x="31" y="236" width="181" height="181" rx="11" fill="#2c7853"/>
+    <path d="M333.5 228 440 334.5 333.5 440 227 334.5Z" fill="#f05944"/>
+  </svg>
+  <text x="46" y="27" fill="#1f2328" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Proofline</text>
+</svg>
